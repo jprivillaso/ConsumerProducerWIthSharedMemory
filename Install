@@ -1,0 +1,21 @@
+DaFuq Coders
+
+  Parsim - Parallel consumer producer in C++ using Shared Memory
+
+Compilation
+
+Go to the root of the project and type
+
+    make
+
+Use
+
+To test the code you can type the following code at the root folder
+parsimpractice
+
+  make test
+
+And finally to clean the folders and binaries created after the make file
+
+  make clean
+
